@@ -23,10 +23,10 @@ MySQL as a back-end for Employee data with insert and view operations.
 price and year of the book.
 12. Write a program to design Employee data by using XML and CSS to display Name,
 Designation, Department, and Salary of the Employee.
-13 . Write a program to design registration form for students by using HTML, CSS & Java Script
+13. Write a program to design registration form for students by using HTML, CSS & Java Script
 and perform following validations: all fields mandatory, phone number and email address
 validation.
-14 . Write a program to design registration form for Employee by using HTML, CSS & Java
+14. Write a program to design registration form for Employee by using HTML, CSS & Java
 Script and perform following validations: all fields mandatory, phone number and email
 address validation.
 
