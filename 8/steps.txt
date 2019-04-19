@@ -1,0 +1,7 @@
+1. run xampp server
+    i) cd /opt/lampp
+    ii) sudo ./manager-linux-x64.run
+2. unzip wordpress zip file to /opt/lampp/htdocs
+3. configure the wp-sample-config.php , add the data and rename to wp-config.php
+4. install wordpress by localhost/wordpress/
+5. unzip elementor to /opt/lampp/htdocs/wordpress/wp-content/plugins/
